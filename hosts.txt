@@ -1,3 +1,2 @@
-127.0.0.1 youtube.com
-https://addoncrop.com/en1/
 addoncrop.com
+youtube.com
